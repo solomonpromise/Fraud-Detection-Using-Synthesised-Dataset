@@ -1,0 +1,6 @@
+,Models,Hybrid
+0,Decison_Tree_Model,2min 12s
+1,Logistic_Regression_Model,6min 46s
+2,LGBM_Model,4.89 s
+3,XGBM_Model,1min 28s
+4,Random_Forest_Model,2min 16s
